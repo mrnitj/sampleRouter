@@ -1,0 +1,15 @@
+.Home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url(House-animated.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    color: aqua;
+    font-size: 100px;
+}
+button{
+    background-color: rgb(255, 0, 0);
+}
